@@ -1,0 +1,310 @@
+.logo {
+        width: 250px;
+        height: 60px;
+        background-color:white;
+        padding-left: 50px;
+        display: flex;
+        flex-direction: row;
+}
+.camara img{
+        width: 30px;
+        height: 30px;
+        margin-top: 20px;
+}
+.Instagram-Logo img{
+        width: 170px;
+        height: 80px;
+        margin-left: 10px;
+}
+.menu{
+        width: 1090px;
+        height: 60px;
+        background-color:white;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+}
+.boton  {
+        width: 300px;
+        height: 40px;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+}
+.flecha {
+        width: 20px;
+        height: 40px;     
+        margin-left: 10px;
+}
+
+.fas {
+        padding-top: 12px;
+}
+.flecha2{
+        width: 20px;
+        height: 40px;
+}
+
+.galeria {
+         width: 50px;
+         height: 40px;
+         margin: 0 auto; 
+
+}
+
+#cabecera {
+            background-color:white;
+            width: 1100px;
+            height: 50px;
+            margin: 0 auto;
+}
+#cabecera1 {
+            background-color: white;
+            width: 600px;
+            height: 50px;
+            margin: 0 auto;
+            margin-bottom: 200px;           
+}
+#principal {
+            display: flex;   
+            flex-direction: column;
+            background-color:rgb(245, 242, 230);
+            width: 1060px;
+            margin: 0 auto; 
+            padding: 20px;            
+}
+h1 {
+            color: black;
+            text-align: center;
+            padding-top: 2px;
+            padding-bottom: 50px;                     
+}
+#hijoa {
+            display: flex;   
+            flex-direction: column;
+            background-color: white;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;                     
+}               
+#hijob {    display: flex;   
+            flex-direction: column;
+            background-color: white;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;      
+}
+#hijoc {    display: flex;   
+            flex-direction: column;
+            background-color: white;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;                      
+}
+#hijod {    display: flex;   
+            flex-direction: column;
+            background-color: white;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;                    
+}
+#a1 {
+            display: flex;   
+            flex-direction: row-reverse;
+            background-color:white;
+            width: 500px;
+            height: 70px;
+            margin: 0 auto;                                                         
+}
+#a2 {
+            background-color:white;
+            width: 500px;
+            height: 350px;
+            margin: 0 auto;                  
+}
+#a2 img {    
+            position: absolute;
+            width: 500px;
+            height: 350px;
+}
+#a3 {
+            background-color:white;
+            width: 500px;   
+            height: 100px; 
+            margin: 0 auto;   
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: left;     
+}     
+#a11 {
+            background-color:white;
+            width: 180px;
+            height: 70px;
+            margin-left: 100px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: right;                                  
+}
+#a12 {
+            background-color: white;
+            width: 500px;
+            height: 70px;    
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 21px;
+            padding-top: 15px; 
+}
+#b1 {
+            display: flex;   
+            flex-direction: row-reverse;
+            background-color: white;
+            width: 500px;
+            height: 70px;
+            margin: 0 auto;                                                         
+}
+#b2 {
+            background-color: white;
+            width: 500px;
+            height: 350px;
+            margin: 0 auto;                   
+}
+
+#b2 img {    
+            position: absolute;
+            width: 500px;
+            height: 350px;
+            
+}
+
+#b3 {
+            background-color:white;
+            width: 500px;   
+            height: 100px; 
+            margin: 0 auto;     
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: left;      
+}     
+#b11 {
+            background-color: white;
+            width: 180px;
+            height: 70px;
+            margin-left: 100px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: right;                                   
+}
+#b12 {
+            background-color: white;
+            width: 500px;
+            height: 70px;   
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 21px;
+            padding-top: 15px; 
+}   
+#c1 {
+            display: flex;   
+            flex-direction: row-reverse;
+            background-color: white;
+            width: 500px;
+            height: 70px;
+            margin: 0 auto;                                                         
+}
+#c2 {
+            background-color: white;
+            width: 500px;
+            height: 350px;
+            margin: 0 auto;                   
+}
+
+#c2 img{    
+            position: absolute;
+            width: 500px;
+            height: 350px;
+            
+}
+#c3 {
+            background-color: white;
+            width: 500px;   
+            height: 100px; 
+            margin: 0 auto;     
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: left;    
+}     
+#c11 {
+            background-color: white;
+            width: 180px;
+            height: 70px;
+            margin-left: 100px;      
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: right;                              
+}
+#c12 {
+            background-color: white;
+            width: 500px;
+            height: 70px;  
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 21px;
+            padding-top: 15px;
+}
+
+#d1 {
+            display: flex;   
+            flex-direction: row-reverse;
+            background-color: white;
+            width: 500px;
+            height: 70px;
+            margin: 0 auto;                                                         
+}
+#d2 {
+            background-color: white;
+            width: 500px;
+            height: 350px;
+            margin: 0 auto;                   
+}
+#d2 img{    
+            position: absolute;
+            width: 500px;
+            height: 350px;
+}
+#d3 {
+            background-color: white;
+            width: 500px;   
+            height: 100px; 
+            margin: 0 auto;  
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: left;       
+}     
+#d11 {
+            background-color: white;
+            width: 180px;
+            height: 70px;
+            margin-left: 100px;   
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            padding-top: 15px; 
+            text-align: right;                               
+}
+#d12 {
+            background-color: white;
+            width: 500px;
+            height: 70px; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 21px;
+            padding-top: 15px;    
+}
+
+header {
+            position: none;
+
+}
